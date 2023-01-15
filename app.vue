@@ -3,7 +3,7 @@ useHead({
   title: 'EZSTA Mapping Finder',
   link: [
     {
-      rel: 'icon', type: 'image/png', href: 'img/ezsta_logo.png',
+      rel: 'icon', type: 'image/png', href: '_nuxt/assets/img/ezsta_logo.png',
     },
   ],
 })
